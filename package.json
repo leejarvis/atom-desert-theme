@@ -1,0 +1,12 @@
+{
+  "name": "desert",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A desert theme for Atom",
+  "repository": "https://github.com/leejarvis/atom-desert-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
