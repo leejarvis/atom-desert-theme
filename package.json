@@ -1,7 +1,7 @@
 {
   "name": "desert",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "A desert theme for Atom",
   "repository": "https://github.com/leejarvis/atom-desert-theme",
